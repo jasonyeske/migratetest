@@ -1,0 +1,42 @@
+
+/* the box on the right */
+.box-on-right{
+    border: 3px solid;
+    float: right;
+    background-color: lightgrey;
+    
+  }
+  .blue-line {
+    
+    height: 5px;
+    background-color: blue;
+    
+    
+  }
+  /* Titles and headers */
+  h1 {
+     margin-left:30px;
+    
+  }
+  h4 {
+     margin-left:30px;
+    
+  }
+  
+  
+  /* paragraphs */
+  p {
+     max-width: 75ch;
+    margin-left:30px;
+    
+  }
+  
+  .contents-box{
+    
+     border: 3px solid;
+    background-color: lightgrey;
+    padding: 10px;
+    width: 350px;
+    line-height:5px;
+     margin-left:30px;
+  }
